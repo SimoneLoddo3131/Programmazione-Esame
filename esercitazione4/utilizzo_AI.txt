@@ -1,0 +1,4 @@
+L'utilizzo dei strumenti come gemini è stato usato nel file measure_sort.cpp per avere una griglia in output ben costruita, e per la creazione del grafico tramite python.
+
+Mi sono dimenticato di aggiungere nella esercitazione3 che per cercare di coprire tutte le casistiche possibili ho usato gemini nel file rational.hpp e nel file prova.cpp per creare un output completo che anche lì che comprendesse tutte le casistiche.
+

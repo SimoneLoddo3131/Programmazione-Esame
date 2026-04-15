@@ -27,12 +27,12 @@ int main() {
 
 	
 	if (!is_sorted(v)){
-			std::cout<<"test non superato bubble sort\n";
+			std::cout<<"test non superato insertion sort\n";
  
 	
 	
 	randfiller flr;
-	for (int i=0; i<100; i++){
+	for (int i=0; i<100; i++ ){
 		 std::vector<int> d((rd()%100));
 	
 	
@@ -44,7 +44,8 @@ int main() {
 		
 		if (!is_sorted(d)){
 			std::cout<<"test non superato per insertsort\n";
-		return EXIT_FAILURE;}
+		return EXIT_FAILURE;
+		}
 		
 	
 		
@@ -59,6 +60,7 @@ int main() {
 	return EXIT_SUCCESS;
    
 }
+
 }
 	
 	

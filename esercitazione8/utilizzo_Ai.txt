@@ -1,0 +1,1 @@
+nella riga 116 ho usato gemini per gestire il caso nel quale la funzione non fa return su nessun arco, quindi ho aggiunto con gemini throw std::out_of_range("Indice fuori limite");

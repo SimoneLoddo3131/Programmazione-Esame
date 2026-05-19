@@ -1,0 +1,3 @@
+Utilizzo di gemini nella riga di graph all_nodes dal esercitazione precendente.
+
+Ho utilizzato gemini per creare un main che potesse creare file.dot.
